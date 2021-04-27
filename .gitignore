@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+binary.png
+tinytest.png
